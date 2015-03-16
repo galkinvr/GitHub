@@ -1,4 +1,4 @@
-program Piramida;
+program PiramidalnajaSortirovka;
 
 {$APPTYPE CONSOLE}
 
